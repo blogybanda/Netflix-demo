@@ -1,0 +1,5 @@
+{
+  "name": "Netflix Trends Insight",
+  "description": "A visually stunning dashboard displaying the current Top 10 trending series on Netflix, powered by Google Gemini with Search Grounding for real-time data.",
+  "requestFramePermissions": []
+}
